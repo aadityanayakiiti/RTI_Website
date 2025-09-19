@@ -1,0 +1,89 @@
+{
+  "title": "PROACTIVE DISCLOSURE OF INFORMATION PERTAINING TO THE INSTITUTE UNDER SECTION 4 OF THE RIGHT TO INFORMATION ACT, 2005",
+  "sections": [
+    {
+      "id": "organisation-and-function",
+      "title": "Organisation and Function",
+      "content": [
+        {
+          "serialNumber": "1.1",
+          "title": "Particulars of its organisation, functions and duties [Section 4(1)(b)(i)]",
+          "rows": [
+            {
+              "subItemNumber": "(i)",
+              "details": "Yo",
+              "link": "<p>Indian Institute of Technology Indore,<br>Khandwa Road, Simrol,<br>Indore, Madhya Pradesh – 453552<br><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\" href=\"https://www.iiti.ac.in/page/contactus\">View Link</a></p><p></p><ol><li><p>sa</p></li><li><p>asd</p></li><li><p>asd</p></li><li><p>asd</p></li></ol><p></p>",
+              "observation": "<p>sad</p>"
+            },
+            {
+              "subItemNumber": "(ii)",
+              "details": "Head of the Organization",
+              "link": "Prof. Suhas S. Joshi<br>Director<br>Email – director@iiti.ac.in<br>Phone – 0731-6603109<br><a href=\"https://www.iiti.ac.in/director\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "(iii)",
+              "details": "Vision, Mission, and Key Objectives",
+              "link": "<a href=\"https://www.iiti.ac.in/public/storage/Mission_Vision_Objectives.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "(iv)",
+              "details": "Function and duties",
+              "link": "Details are provided in Section 6 of IT Act 1961 (Page 5 and 6)<br><a href=\"https://www.iiti.ac.in/public/storage/act/The%20IT%20Act_1961.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "(v)",
+              "details": "Organization Chart",
+              "link": "<a href=\"https://www.iiti.ac.in/institute-functionaries\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "(vi)",
+              "details": "Any other details-the genesis, inception, formation of the department...",
+              "link": "Departments: <a href=\"https://www.iiti.ac.in/departments\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">Link</a><br>Centers: <a href=\"https://www.iiti.ac.in/page/centers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">Link</a><br>Institute committees: <a href=\"https://www.iiti.ac.in/institute-committees\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "New Item Description",
+              "link": "<p>Add details and links here.</p>",
+              "observation": "<p>Add observation here.</p>"
+            }
+          ]
+        },
+        {
+          "serialNumber": "x.x",
+          "title": "New Content Block Title",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "New Item Description",
+              "link": "<p>Add details and links here.</p>",
+              "observation": "<p>Add observation here.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "new-section-1758308480147",
+      "title": "New Section Title",
+      "content": [
+        {
+          "serialNumber": "x.x",
+          "title": "New Content Block Title",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "New Item Description",
+              "link": "<p></p>",
+              "observation": "<p></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

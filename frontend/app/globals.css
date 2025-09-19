@@ -1,0 +1,26 @@
+/* Explicitly load the config file */
+@config "../tailwind.config.js";
+
+/* These directives remain the same */
+@import "tailwindcss";
+
+body {
+  /* Step 2: Use CSS variables with the @apply directive */
+  @apply bg-[var(--color-iit-gray-medium)] text-[var(--color-iit-gray-dark)];
+}
+
+/* Custom scrollbar styles remain the same */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #c0c0c0;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a0a0a0;
+}
