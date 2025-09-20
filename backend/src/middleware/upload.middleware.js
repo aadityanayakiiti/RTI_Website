@@ -5,34 +5,33 @@ const path = require('path');
 const storage = multer.diskStorage({
   destination: './public/uploads/',
   filename: function (req, file, cb) {
-    // Create a unique filename to avoid overwrites
     const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1e9);
     cb(null, file.fieldname + '-' + uniqueSuffix + path.extname(file.originalname));
   },
 });
 
-// Initialize upload variable
+// Initialize upload variable with updated limits and filter
 const upload = multer({
   storage: storage,
-  limits: { fileSize: 5000000 }, // Limit file size to 5MB
+  limits: { fileSize: 10 * 1024 * 1024 }, // <-- UPDATED: 10MB limit
   fileFilter: function (req, file, cb) {
     checkFileType(file, cb);
   },
-}).single('file'); // 'file' is the name of the form field
+}).single('file');
 
-// Check File Type
+// UPDATED: Stricter file type check for only images and PDFs
 function checkFileType(file, cb) {
-  // Allowed extensions
-  const filetypes = /jpeg|jpg|png|gif|pdf|doc|docx/;
-  // Check ext
+  // Allowed extensions for images and PDF
+  const filetypes = /jpeg|jpg|png|gif|pdf/;
+  // Check extension
   const extname = filetypes.test(path.extname(file.originalname).toLowerCase());
-  // Check mime
+  // Check mime type
   const mimetype = filetypes.test(file.mimetype);
 
   if (mimetype && extname) {
     return cb(null, true);
   } else {
-    cb('Error: The file type is not supported!');
+    cb('Error: Only PDF and image files (jpeg, jpg, png, gif) are allowed!');
   }
 }
 

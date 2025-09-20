@@ -74,7 +74,7 @@ export default function RtiPage() {
     <div className="container mx-auto px-4 py-8">
       {/* ... the rest of the JSX is unchanged ... */}
       <header className="mb-8">
-        <h1 className="text-3xl md:text-4xl font-bold text-iit-maroon border-b-2 border-gray-200 pb-4 text-center md:text-left">
+        <h1 className="text-3xl md:text-4xl font-bold text-iit-gray-dark border-b-2 border-gray-200 pb-4 text-center md:text-left">
             {rtiData.title}
         </h1>
       </header>
