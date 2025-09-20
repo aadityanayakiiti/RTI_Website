@@ -2,6 +2,7 @@
 
 # Dependencies (covers both frontend and backend)
 node_modules/
+public/uploads/
 /.pnp
 .pnp.*
 .yarn/*

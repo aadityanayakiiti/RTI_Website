@@ -7,74 +7,950 @@
       "content": [
         {
           "serialNumber": "1.1",
-          "title": "Particulars of its organisation, functions and duties [Section 4(1)(b)(i)]",
+          "title": "Particulars of its organisation, functions and duties\n[Section 4(1)(b)(i)]",
           "rows": [
             {
-              "subItemNumber": "(i)",
-              "details": "Yo",
-              "link": "<p>Indian Institute of Technology Indore,<br>Khandwa Road, Simrol,<br>Indore, Madhya Pradesh – 453552<br><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\" href=\"https://www.iiti.ac.in/page/contactus\">View Link</a></p><p></p><ol><li><p>sa</p></li><li><p>asd</p></li><li><p>asd</p></li><li><p>asd</p></li></ol><p></p>",
-              "observation": "<p>sad</p>"
+              "subItemNumber": "",
+              "details": "Name and address of the Organization",
+              "link": "Indian Institute of Technology Indore,<br>Khandwa Road, Simrol,<br>Indore, Madhya Pradesh – 453552<br><a href=\"https://www.iiti.ac.in/page/contactus\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
             },
             {
-              "subItemNumber": "(ii)",
+              "subItemNumber": "",
               "details": "Head of the Organization",
               "link": "Prof. Suhas S. Joshi<br>Director<br>Email – director@iiti.ac.in<br>Phone – 0731-6603109<br><a href=\"https://www.iiti.ac.in/director\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
               "observation": ""
             },
             {
-              "subItemNumber": "(iii)",
+              "subItemNumber": "",
               "details": "Vision, Mission, and Key Objectives",
               "link": "<a href=\"https://www.iiti.ac.in/public/storage/Mission_Vision_Objectives.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
               "observation": ""
             },
             {
-              "subItemNumber": "(iv)",
+              "subItemNumber": "",
               "details": "Function and duties",
               "link": "Details are provided in Section 6 of IT Act 1961 (Page 5 and 6)<br><a href=\"https://www.iiti.ac.in/public/storage/act/The%20IT%20Act_1961.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
               "observation": ""
             },
             {
-              "subItemNumber": "(v)",
+              "subItemNumber": "",
               "details": "Organization Chart",
               "link": "<a href=\"https://www.iiti.ac.in/institute-functionaries\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
               "observation": ""
             },
             {
-              "subItemNumber": "(vi)",
-              "details": "Any other details-the genesis, inception, formation of the department...",
-              "link": "Departments: <a href=\"https://www.iiti.ac.in/departments\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">Link</a><br>Centers: <a href=\"https://www.iiti.ac.in/page/centers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">Link</a><br>Institute committees: <a href=\"https://www.iiti.ac.in/institute-committees\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">Link</a>",
-              "observation": ""
-            },
-            {
               "subItemNumber": "",
-              "details": "New Item Description",
-              "link": "<p>Add details and links here.</p>",
-              "observation": "<p>Add observation here.</p>"
+              "details": "Any other details-the genesis, inception, formation of the department and the HoDs from time to time as well as the committees/ Commissions constituted from time to time have been dealt",
+              "link": "Departments:<br><a href=\"https://www.iiti.ac.in/departments\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Centers:<br><a href=\"https://www.iiti.ac.in/page/centers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Institute committees:<br><a href=\"https://www.iiti.ac.in/institute-committees\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
             }
           ]
         },
         {
-          "serialNumber": "x.x",
-          "title": "New Content Block Title",
+          "serialNumber": "1.2",
+          "title": "Power and duties of its officers and employees\n[Section 4(1) (b)(ii)]",
           "rows": [
             {
               "subItemNumber": "",
-              "details": "New Item Description",
-              "link": "<p>Add details and links here.</p>",
-              "observation": "<p>Add observation here.</p>"
+              "details": "Powers and duties of officers (administrative, financial, and judicial)",
+              "link": "Information is provided in Section 6 to 20 of IT Act 1961 (Page 5 to 10)<br><a href=\"https://www.iiti.ac.in/public/storage/act/The%20IT%20Act_1961.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Power and duties of other employees",
+              "link": "<a href=\"https://www.iiti.ac.in/public/storage/rti/manuals/Power%20and%20Duties%20of%20Officers%20and%20employees.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Rules/ orders under which powers and duty are derived and exercised",
+              "link": "Powers and duties are derived by IT Act and IIT Indore Statutes<br><a href=\"https://www.iiti.ac.in/public/storage/act/The%20IT%20Act_1961.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br><a href=\"https://www.iiti.ac.in/public/storage/statutes.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Work allocation",
+              "link": "<a href=\"https://www.iiti.ac.in/institute-functionaries\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.3",
+          "title": "Procedure followed in decision making process.\n[Section 4(1)(b)(iii)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Process of decision making Identify key decision-making points",
+              "link": "The procedure of decision-making process is followed in accordance with IT Act and Statutes of the Institute.<br><a href=\"https://www.iiti.ac.in/public/storage/rti/manuals/Decision%20Making.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Final decision-making authority",
+              "link": "Board of Governors/ Director/ Deans/ Registrar/ HoDs<br><a href=\"https://www.iiti.ac.in/public/storage/rti/manuals/Decision%20Making.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Related provisions, acts, rules etc.",
+              "link": "IT Act 1961<br><a href=\"https://www.iiti.ac.in/public/storage/act/The%20IT%20Act_1961.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>IIT Indore Statutes<br><a href=\"https://www.iiti.ac.in/public/storage/statutes.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Time limit for taking a decision if any",
+              "link": "Generally, 7 working days, however, it depends on Case-to-Case basis",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Channel of supervision and accountability",
+              "link": "Each employee has a Reporting Officer, HoD and Reviewing Officer who monitors the tasks assigned and targets achieved.",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.4",
+          "title": "Norms for discharge of functions\n[Section 4(1)(b)(iv)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Nature of functions/ services offered",
+              "link": "Academic, Research, Skill Development, Entrepreneurship and technology-based consultancy<br>The information is available at<br>Academics - <a href=\"https://academic.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Research &amp; Consultancy -<a href=\"https://rnd.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Entrepreneurship  - <a href=\"https://acefoundation.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Norms/ standards for functions/ service delivery",
+              "link": "<a href=\"https://www.iiti.ac.in/public/storage/rti/manuals/Norms%20Standards%20for%20functions%20Service%20delivery.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Process by which these services can be accessed",
+              "link": "<a href=\"https://www.iiti.ac.in/public/storage/rti/manuals/Norms%20Standards%20for%20functions%20Service%20delivery.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Time-limit for achieving the targets",
+              "link": "<a href=\"https://www.iiti.ac.in/public/storage/rti/manuals/Time%20Limit%20for%20achieving%20the%20targets.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Process of redress of grievances",
+              "link": "Based on the Grievance, the aggrieved can write email to concerned HoD or approach any of the bodies as mentioned below:<br>Grievance Cell -  <a href=\"https://grievance.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Women Cell - <a href=\"https://www.iiti.ac.in/institute-committees\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>ICC - <a href=\"https://icc.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.5",
+          "title": "Acts, rules, regulations, instructions, manuals and records for discharging functions[Section 4(1)(b)(v)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Title and nature of the record/ manual /instruction.",
+              "link": "Rules, regulations, instructions, manuals and records, used for discharging functions are followed in accordance with IT Act and Statutes of the Institute.<br><a href=\"https://www.iiti.ac.in/public/storage/act/The%20IT%20Act_1961.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br><a href=\"https://www.iiti.ac.in/public/storage/statutes.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Go to Documents Tab at<br><a href=\"https://academic.iiti.ac.in/admission.php#\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>GFR2017<br>Handbook for Personnel Officers",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "List of Rules, regulations, instructions manuals and records.",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Acts/ Rules manuals etc.",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.6",
+          "title": "Categories of documents held by the authority under its control\n\n[Section 4(1)(b) (vi)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Categories of documents",
+              "link": "The categories of documents held by the authority is in accordance with IT Act and Statutes of the Institute.<br><a href=\"https://www.iiti.ac.in/public/storage/rti/manuals/Custodian%20of%20documents%20categories.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Custodian of documents/categories",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.7",
+          "title": "Boards, Councils, Committees and other Bodies constituted as part of the Public Authority\n[Section 4(1)(b)(viii)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Name of Boards, Council, Committee etc.",
+              "link": "BoG - <a href=\"https://www.iiti.ac.in/board-of-governors\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>FC - <a href=\"https://www.iiti.ac.in/finance-committee\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Senate - <a href=\"https://www.iiti.ac.in/senate\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>BWC - <a href=\"https://www.iiti.ac.in/building-and-works-committee\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Other - <a href=\"https://www.iiti.ac.in/institute-committees\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": "<p>The Boards, Councils, Committees and other bodies are formed in accordance with IT Act and Statutes of the Institute. The minutes of Board meetings, Finance Committee, Annual Report, Convocation Report are available in the Institute website.\n\nhttps://iiti.ac.in/page/reports</p>"
+            },
+            {
+              "subItemNumber": "",
+              "details": "Composition",
+              "link": "Same as 1.7 (i)",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Dates from which constituted",
+              "link": "BoG &amp; FC – August 25, 2023<br>Senate &amp; BWC – January 31, 2022",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Term/ Tenure",
+              "link": "BoG – 3 years<br>FC – 3 years<br>Senate – 2 years<br>BWC – 3 years<br>Other – 2 to 3 years",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Powers and functions",
+              "link": "Powers and duties are derived by IT Act and IIT Indore Statutes<br><a href=\"https://www.iiti.ac.in/public/storage/act/The%20IT%20Act_1961.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br><a href=\"https://www.iiti.ac.in/public/storage/statutes.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Whether their meetings are open to the public?",
+              "link": "No",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Whether the minutes of the meetings are open to the public?",
+              "link": "Yes",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Place where the minutes if open to the public are available?",
+              "link": "<a href=\"https://www.iiti.ac.in/page/reports\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.8",
+          "title": "Directory of officers and employees\n[Section 4(1) (b) (ix)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Name and designation",
+              "link": "The directory is available in the Institute Website under Connect Section and is updated monthly.<br><a href=\"https://directory.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Telephone, fax and email ID",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.9",
+          "title": "Monthly Remuneration received by officers & employees including system of compensation.\n[Section 4(1) (b) (x)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "List of employees with Gross monthly remuneration",
+              "link": "The monthly remuneration is provided in accordance with F. No. 15-4/2017-TC dated October 27, 2017 for faculty members and F. No. 15-4/2017-TC(Vol-II) dated December 29, 2017 for non-teaching staff. Further, the remuneration of non-teaching staff post wise is mentioned in the Recruitment and Promotion Norms of the Institute.<br>Kindly refer to Recruitment and Promotion Norms at <a href=\"https://www.iiti.ac.in/administration_docs/reports_admin/IITI_RPN_2018_UPDATED.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "System of compensation as provided in its regulations",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.10",
+          "title": "Name, designation and other particulars of public information officers\n\n[Section 4(1) (b) (xvi)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Name and designation of the public information officer (PIO), Assistant Public Information (s) & Appellate Authority",
+              "link": "PIO – Cdr. Sunil Kumar (Retd.),<br>Joint Registrar, IIT Indore<br>pio@iiti.ac.in (0731-6603559)<br>APIO – Mr. Tapesh Parihar,<br>Section Officer, IIT Indore<br>rticell@iiti.ac.in (0731-6603577)<br>Appellate Authority – Mr. S.P. Hota,<br>Registrar, IIT Indore<br>registrar@iiti.ac.in (0731-6603518)<br><a href=\"https://www.iiti.ac.in/page/public-relations-rti\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Address, telephone numbers and email ID of each designated official.",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.11",
+          "title": "No. of employees against whom Disciplinary action has been proposed/ taken\n(Section 4(2))",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "No. of employees against whom disciplinary action has been:\n\nPending for Minor penalty or major penalty proceedings",
+              "link": "Nil",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Finalised for Minor penalty or major penalty proceedings",
+              "link": "Nil",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.12",
+          "title": "Programmes to advance understanding of RTI\n\n(Section 26)",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Educational programmes",
+              "link": "Nil",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Efforts to encourage public authority to participate in these programmes",
+              "link": "Nil",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Training of CPIO/APIO",
+              "link": "Nil",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Update & publish guidelines on RTI by the Public Authorities concerned",
+              "link": "Nil",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "1.13",
+          "title": "Transfer policy and transfer orders\n[F No. 1/6/2011- IR dt. 15.4.2013]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Same as 1.5 (iv)",
+              "link": "The transfer policy is being included in the Recruitment and Promotion Norms which is in the draft stage.",
+              "observation": ""
             }
           ]
         }
       ]
     },
     {
-      "id": "new-section-1758308480147",
-      "title": "New Section Title",
+      "id": "budget-and-programme",
+      "title": "Budget and Programme",
       "content": [
         {
-          "serialNumber": "x.x",
-          "title": "New Content Block Title",
+          "serialNumber": "2.1",
+          "title": "Budget allocated to each agency including all plans, proposed expenditure and reports on disbursements made etc.\n[Section 4(1)(b)(xi)]",
           "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Total Budget for the public authority",
+              "link": "<a href=\"https://www.iiti.ac.in/administration_docs/reports_admin/Allocation%20FY%202024-25.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Budget for each agency and plan & programmes",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Proposed expenditures",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Revised budget for each agency, if any",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Report on disbursements made and place where the related reports are available",
+              "link": "<a href=\"https://www.iiti.ac.in/page/reports\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Information related to procurements:\nNotice/tender enquires, and corrigenda if any thereon,\nDetails of the bids awarded comprising the names of the suppliers of goods/ services being procured,\nThe works contracts concluded – in any such combination of the above-and\nThe rate /rates and the total amount at which such procurement or works contract is to be executed.",
+              "link": "Information relating to procurement including publication of notice/ tender enquiries, corrigenda thereon is published in the Institute Website.<br><a href=\"https://iiti.ac.in/tender_estate\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br><a href=\"https://iiti.ac.in/tender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "2.2",
+          "title": "Foreign and domestic tours\n(F.No. 1/8/2012- IR dt. 11.9.2012)",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Budget",
+              "link": "On need basis",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Foreign and domestic Tours by ministries and officials of the rank of Joint Secretary to the Government and above, as well as the heads of the Department.\nPlaces visited\nThe period of visit\nThe number of members in the official delegation\nExpenditure on the visit",
+              "link": "<a href=\"https://www.iiti.ac.in/administration_docs/reports_admin/travel_details/2024-25.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "2.3",
+          "title": "Manner of execution of subsidy programme\n[Section 4(i)(b)(xii)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Name of the programme of activity",
+              "link": "The Institute provides scholarship and Teaching Assistance to the students in accordance with the provision of Govt. of India.<br><a href=\"https://academic.iiti.ac.in/scholarship.php\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Objective of the programme",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Procedure to avail benefits",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Duration of the programme/ scheme",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Physical and financial targets of the programme",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Nature/ scale of subsidy /amount allotted",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Eligibility criteria for grant of subsidy",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Details of beneficiaries of subsidy programme (number, profile etc)",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "2.4",
+          "title": "Discretionary and non-discretionary grants [F. No. 1/6/2011-IR dt. 15.04.2013]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Discretionary and non-discretionary grants/ allocations to State Govt./ NGOs/other institutions",
+              "link": "<a href=\"https://www.iiti.ac.in/administration_docs/reports_admin/Allocation%20FY%202023-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Annual accounts of all legal entities who are provided grants by public authorities",
+              "link": "<a href=\"https://iiti.ac.in/administration_docs/reports_admin/Annual%20Report/23-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "2.5",
+          "title": "Particulars of recipients of concessions, permits of authorizations granted by the public authority\n[Section 4(1) (b) (xiii)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Concessions, permits, or authorizations granted by public authority",
+              "link": "The Institute provides scholarship and Teaching Assistance to the students in accordance with the provision of Govt. of India.<br><a href=\"https://academic.iiti.ac.in/scholarship.php\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "For each concession, permit or authorization granted.\nEligibility criteria\nProcedure for getting the concession/ grant and/ or\npermits of authorizations\nName and address of the recipients given concessions/ permits or authorisations.\nDate of award of concessions/ permits of authorizations",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "2.6",
+          "title": "CAG & PAC paras [F No. 1/6/2011- IR dt. 15.4.2013]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "CAG and PAC paras and the action taken reports (ATRs) after these have been laid on the table of both houses of the parliament.",
+              "link": "<a href=\"https://iiti.ac.in/administration_docs/reports_admin/Annual%20Report/23-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "publicity-and-public-interface",
+      "title": "Publicity Band Public interface",
+      "content": [
+        {
+          "serialNumber": "3.1",
+          "title": "Particulars for any arrangement for consultation with or representation by the members of the public in relation to the formulation of policy or implementation there of\n\n[Section 4(1)(b)(vii)]\n\n[F No 1/6/2011-IR dt. 15.04.2013]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Arrangement for consultations with or representation by the members of the public\n\nRelevant Acts, Rules, Forms, and other documents which are normally accessed by citizens",
+              "link": "The Institute is an Autonomous Body and includes members of the stake holders and external members as well in accordance with the Institute Statutes in the formulation and implementation of the policies.<br>Relevant Acts, Rules are available at <a href=\"https://www.iiti.ac.in/page/downloads\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Arrangements for consultation with or representation by\n\nMembers of the public in policy formulation/ policy implementation\n\nDay & Time allotted for Visitors\n\nContact details of Information & Facilitation Counter (IFC) to provide publications frequently sought by RTI applicants",
+              "link": "The Institute is an Autonomous Body and includes members of the stake holders and external members in accordance with the Institute Statutes in the formulation and implementation of the policies.<br>From 09:30 hrs to 17:30 hrs on all working days<br>APIO – Mr. Tapesh Parihar,<br>Section Officer, IIT Indore<br>rticell@iiti.ac.in (0731-6603577)",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Public- private partnerships (PPP)\n\nDetails of Special Purpose Vehicle (SPV) if any",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Detailed project reports (DPRs)",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Concession agreements.",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Operation and maintenance manuals",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Other documents generated as part of the implementation of the PPP",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Information relating to fees, tolls, or the other kinds of revenues that may be collected under authorisation from the government",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Information relating to outputs and outcomes",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "The process of the selection of the private sector party (concessionaire etc.)",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "All payment made under the PPP project",
+              "link": "NA",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "3.2",
+          "title": "Are the details of policies / decisions, which affect public, informed to them.\n[Section 4(1) (c)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Publish all relevant facts while formulating important policies or announcing decisions which affect public to make the process more interactive;\n\nPolicy decisions/ legislations taken in the previous one year",
+              "link": "The Policy decisions are taken by BoG, FC, Senate and BWC and the minutes are uploaded in the website at <a href=\"https://www.iiti.ac.in/page/reports\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Outline the Public consultation process",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Outline the arrangement for consultation before formulation of policy",
+              "link": "The decisions are taken based on the national policy and/ or feedback and suggestions of the stakeholders.",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "3.3",
+          "title": "Dissemination of information widely and in such form and manner which is easily accessible to the public.\n[Section 4(3)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Use of the most effective means of communication\n\nInternet (website)",
+              "link": "The Institute has a website which contains most of the information in electronic form. The webpage provides information section and department wise and can be easily accessed by public.<br><a href=\"https://www.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "3.4",
+          "title": "Form of accessibility of information manual/ handbook.\n[Section 4(1)(b)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Information manual/handbook available in\nElectronic format",
+              "link": "<a href=\"https://www.iiti.ac.in/administration_docs/reports_admin/Annual%20Report/23-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Printed format",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "3.5",
+          "title": "Whether information manual/ handbook available free of cost or not.\n[Section 4(1)(b)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "List of materials available\nFree of cost",
+              "link": "Soft copy of the documents is available free of cost on the Institute website at  <a href=\"https://www.iiti.ac.in/page/downloads\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "At a reasonable cost of the medium",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e-governance",
+      "title": "E. Governance",
+      "content": [
+        {
+          "serialNumber": "4.1",
+          "title": "Language in which Information Manual/ Handbook Available\n[F No. 1/6/2011-IR dt. 15.4.2013]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Hindi",
+              "link": "Hindi<br><a href=\"https://www.iiti.ac.in/administration_docs/reports_admin/ar_hindi/AR_2024_Hindi.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "English",
+              "link": "English<br><a href=\"https://www.iiti.ac.in/administration_docs/reports_admin/Annual%20Report/23-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Vernacular/ Local Language",
+              "link": "Yes, Hindi",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "4.2",
+          "title": "When was the information Manual/ Handbook last updated?\n[F No. 1/6/2011-IR dt 15.4.2013]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Last date of Annual updation",
+              "link": "July 2024",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "4.3",
+          "title": "Information available in electronic form\n[Section 4(1)(b)(xiv)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Details of information available in electronic form",
+              "link": "The Institute has a website which contains most of the information in electronic form. The webpage provides information section and department wise and can be easily accessed by public.<br><a href=\"https://www.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Name/ title of the document/ record/ other information",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Location where available",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "4.4",
+          "title": "Particulars of facilities available to citizen for obtaining information\n[Section 4(1)(b)(xv)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Name & location of the facility",
+              "link": "The Institute provides round the clock information through a website at <a href=\"https://www.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>The Institute sou moto discloses majority of the information which can be accessed through the Institute website. In addition, specific information can be obtained through PRO at prclo@iiti.ac.in or PIO at rticell@iiti.ac.in.<br><a href=\"https://iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br><a href=\"https://prclo.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br><a href=\"https://www.iiti.ac.in/prclo\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Details of information made available",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Working hours of the facility",
+              "link": "",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Contact person & contact details (Phone, fax email)",
+              "link": "",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "4.5",
+          "title": "Such other information as may be prescribed under section 4(i) (b)(xvii)",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Grievance redressal mechanism",
+              "link": "Based on the Grievance, the aggrieved can write email to concerned HoD or approach any of the bodies as mentioned below:<br>Grievance Cell - <a href=\"https://grievance.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Women Cell - <a href=\"https://www.iiti.ac.in/institute-committees\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>ICC - <a href=\"https://icc.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "List of completed schemes/ projects/ Programmes",
+              "link": "Details can be accessed under Projects Tab at <a href=\"https://rnd.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "List of schemes/ projects/ programme underway",
+              "link": "Details can be accessed under Projects Tab at <a href=\"https://rnd.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Details of all contracts entered into including name of the contractor, amount of contract and period of completion of contract",
+              "link": "<a href=\"https://www.iiti.ac.in/public/storage/Tender%20Document/Service%20Contracts%20List%20%202024-2025%20%20for%20Audit.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Annual Report",
+              "link": "<a href=\"https://www.iiti.ac.in/administration_docs/reports_admin/Annual%20Report/23-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Frequently Asked Question (FAQs)",
+              "link": "<a href=\"https://www.iiti.ac.in/public/storage/rti/manuals/Frequently%20Asked%20Question%20(FAQs).pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Any other information such as\nCitizen’s Charter",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Result Framework Document (RFD)",
+              "link": "NA",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Six monthly reports on the Performance against the benchmarks set in the Citizen’s Charter",
+              "link": "NA",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "4.6",
+          "title": "Receipt & Disposal of RTI applications & appeals [F.No 1/6/2011-IR dt. 15.04.2013]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Details of applications received and disposed",
+              "link": "From 1 April 23 to 31 March 25<br>Total Request Received: 270<br>Total Request Disposed of: 270",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Details of appeals received, and orders issued",
+              "link": "From 1 April 23 to 31 March 25<br>Total Request Received: 11<br>Total Request Disposed of: 11",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "4.7",
+          "title": "Replies to questions asked in the parliament\n[Section 4(1)(d)(2)]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Details of questions asked, and replies given",
+              "link": "<a href=\"https://www.iiti.ac.in/administration_docs/reports_admin/parliamentary_questions/2024-2025.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "information-as-may-be-prescribed",
+      "title": "Information as may be prescribed",
+      "content": [
+        {
+          "serialNumber": "5.1",
+          "title": "Such other information as may be prescribed [F.No. 1/2/2016-IR dt. 17.8.2016, F No. 1/6/2011-IR dt. 15.4.2013]",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Name & details of\nCurrent CPIOs & FAAs\nEarlier CPIO & FAAs from 1.1.2015",
+              "link": "FAA – Mr. S. P. Hota, Registrar<br>CPIO - Cdr. Sunil Kumar (Retd.), Joint Registrar<br><a href=\"https://www.iiti.ac.in/page/public-relations-rti\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a><br>Earlier Officials<br>FAA – Mr. S. P. Hota, Registrar<br>Prof. Nirmala Menon (CPIO)",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Details of third-party audit of voluntary disclosure\nDates of audit carried out\nReport of the audit carried out",
+              "link": "April 2024 <a href=\"https://www.iiti.ac.in/public/storage/rti/RTI_Self%20appraisal%20and%20third%20party%20audit%20report%202023-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Appointment of Nodal Officers not below the rank of Joint Secretary/ Additional HoD\nDate of appointment\nName & Designation of the officers",
+              "link": "To be appointed soon",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Consultancy committee of key stake holders for advice on suo-motu disclosure\nDates from which constituted.\nName & Designation of the officers",
+              "link": "To be appointed soon",
+              "observation": ""
+            },
+            {
+              "subItemNumber": "",
+              "details": "Committee of PIOs/FAAs with rich experience in RTI to identify frequently sought information under RTI\n\nDates from which constituted.\nName & Designation of the Officers",
+              "link": "To be appointed soon",
+              "observation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "information-disclosed-on-own-initiative",
+      "title": "Information Disclosed on own Initiative",
+      "content": [
+        {
+          "serialNumber": "6.1",
+          "title": "Item / information disclosed so that public have minimum resort to use of RTI Act to obtain information",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "The Institute has a website which contains most of the information in electronic form. The webpage provides information section and department wise and can be easily accessed by public.",
+              "link": "<a href=\"https://www.iiti.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-link-blue hover:underline\">View Link</a>",
+              "observation": ""
+            }
+          ]
+        },
+        {
+          "serialNumber": "6.2",
+          "title": "Guidelines for Indian Government Websites (GIGW) is followed (released in February, 2009 and included in the Central Secretariat Manual of Office Procedures (CSMOP) by Department of Administrative Reforms and Public Grievances, Ministry of Personnel, Public Grievance and Pensions, Govt. Of India)",
+          "rows": [
+            {
+              "subItemNumber": "",
+              "details": "Whether STQC certification obtained and its validity.\nDoes the website show the certificate on the Website?",
+              "link": "No<br>NA",
+              "observation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "new-section-1758342474716",
+      "title": "Sample",
+      "content": [
+        {
+          "serialNumber": "7.1",
+          "title": "Sample Title",
+          "rows": [
+            {
+              "subItemNumber": "(i)",
+              "details": "Item 1 desc",
+              "link": "<p><em>asdasd  </em><strong>asdsa </strong></p><p></p><ul><li><p><strong>sadsad</strong></p></li><li><p><strong>sad</strong></p></li><li><p><strong>sad</strong></p></li><li><p><strong>asd</strong></p></li></ul><p></p>",
+              "observation": "<p><em>asdasd  </em><strong>asdsa </strong></p><p></p><ul><li><p><strong>sadsad</strong></p></li><li><p><strong>sad</strong></p></li><li><p><strong>sad</strong></p></li><li><p><strong>asd</strong></p></li></ul><p></p>"
+            },
             {
               "subItemNumber": "",
               "details": "New Item Description",
