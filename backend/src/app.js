@@ -12,7 +12,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: 'http://localhost:3000', // Allow your frontend to connect
+  origin: process.env.FRONTEND_URL, // Allow your frontend to connect
   credentials: true // Allow cookies to be sent
 }));
 app.use(cookieParser()); // <-- Use cookie-parser middleware

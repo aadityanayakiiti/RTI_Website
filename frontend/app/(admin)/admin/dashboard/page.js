@@ -142,7 +142,7 @@ export default function DashboardPage() {
                                                         <div><label className="text-sm font-bold text-gray-600 block mb-1">Sub Item No.</label><input type="text" value={row.subItemNumber} onChange={e => handleDataChange(e.target.value, ['sections', sIdx, 'content', cIdx, 'rows', rIdx, 'subItemNumber'])} className="w-full p-2 border border-gray-300 rounded-md bg-white"/></div>
                                                     </div>
                                                     <div className="mt-4"><label className="text-sm font-bold text-gray-600 block mb-1">Details & Links (HTML)</label><AdvancedTiptapEditor content={row.link} onChange={value => handleDataChange(value, ['sections', sIdx, 'content', cIdx, 'rows', rIdx, 'link'])} /></div>
-                                                    <div className="mt-4"><label className="text-sm font-bold text-gray-600 block mb-1">Auditor's Observation (HTML)</label><AdvancedTiptapEditor content={row.observation} onChange={value => handleDataChange(value, ['sections', sIdx, 'content', cIdx, 'rows', rIdx, 'observation'])} /></div>
+                                                    <div className="mt-4"><label className="text-sm font-bold text-gray-600 block mb-1">Auditor&apos;s Observation (HTML)</label><AdvancedTiptapEditor content={row.observation} onChange={value => handleDataChange(value, ['sections', sIdx, 'content', cIdx, 'rows', rIdx, 'observation'])} /></div>
                                                 </div>
                                             ))}
                                             {contentItem.rows.length === 0 && <div className="text-center text-gray-500 p-4">No rows in this block.</div>}

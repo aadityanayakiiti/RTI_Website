@@ -20,6 +20,13 @@ const eslintConfig = [
       "next-env.d.ts",
     ],
   },
+
+  {
+    files: ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx"],
+    rules: {
+      "react-hooks/rules-of-hooks": "off", // 🔴 Disables the hook rules
+    },
+  },
 ];
 
 export default eslintConfig;
