@@ -936,24 +936,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "section-1758516021909",
-      "title": "New Section Title",
-      "content": [
-        {
-          "serialNumber": "x.x",
-          "title": "New Content Block Title",
-          "rows": [
-            {
-              "subItemNumber": "",
-              "details": "New Item Description",
-              "link": "<p></p>",
-              "observation": "<p></p>"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

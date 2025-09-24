@@ -26,7 +26,7 @@ export default function Header() {
           <Link href="/" className="flex items-center">
             {/* Use the correct logo file and size */}
             <Image
-              src="/iiti_logo.png"
+              src={`${process.env.NEXT_PUBLIC_BASE_PATH}/iiti_logo.png`}
               alt="IIT Indore Logo"
               width={100}
               height={100}
@@ -78,7 +78,7 @@ export default function Header() {
       </div>
 
       {/* Mobile Navigation Menu */}
-      {isMenuOpen && (  
+      {isMenuOpen && (
         <div className="md:hidden bg-white border-t border-gray-200">
           <nav className="flex flex-col p-4 space-y-2">
             {navLinks.map((link) => {

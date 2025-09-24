@@ -1,16 +1,19 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-
+  basePath: "/app",
+  env: {
+    NEXT_PUBLIC_BASE_PATH: "/app",
+  },
   async redirects() {
     return [
       {
-        source: "/", // inside the app, "/" now means "/app/"
-        destination: "/rti", // redirect relative to /app
-        permanent: true,
+        source: "/",
+        destination: "/rti",
+        permanent: false,
       },
       {
-        source: "/admin",
-        destination: "/admin/dashboard",
+        source: "/admin", // Matches /app/admin
+        destination: "/admin/dashboard", // Redirects to /app/admin/dashboard
         permanent: true,
       },
     ];

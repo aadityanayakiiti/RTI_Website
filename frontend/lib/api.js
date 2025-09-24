@@ -25,7 +25,8 @@ api.interceptors.response.use(
       // In this case, we should redirect to login.
       if (!originalRequest.url.endsWith("/auth/status")) {
         if (typeof window !== "undefined") {
-          window.location.href = "/login";
+          // const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
+          // window.location.href = `${BASE_PATH}/login`;
         }
       }
     }
